@@ -1,6 +1,6 @@
-# Mastermind Template
+# Game Kata Template
 
-This is a starter repo for the [Mastermind project](https://github.com/turingschool/curriculum/blob/master/source/projects/mastermind.markdown).
+This is a starter repo for the [Game Kata project].
 
 ## Usage
 
