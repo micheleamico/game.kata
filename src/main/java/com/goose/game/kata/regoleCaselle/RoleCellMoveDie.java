@@ -53,7 +53,7 @@ public class RoleCellMoveDie implements RoleCell {
 
         if (isCellBridge){
             message = player.getName() + " rolls " +rolllingDie.printValueDies()+" "+ player.getName()+ " moves from "
-                    +(player.getPosition().equals(0)? "Start": player.getPosition()) + " to The Bridge. Pippo jumps to 12";
+                    +(player.getPosition().equals(0)? "Start": player.getPosition()) + " to The Bridge."+player.getName() + " jumps to 12";
 
         }
 
